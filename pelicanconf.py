@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Salvador Lobato'
 SITENAME = 'Blog-Travis'
 SITEURL = ''
-THEME = 'output/theme'
+#THEME = 'output/theme'
 
 PATH = 'content'
 
